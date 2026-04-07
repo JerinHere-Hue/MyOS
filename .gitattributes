@@ -1,3 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 MyOS.zip filter=lfs diff=lfs merge=lfs -text
 MyOs.zip filter=lfs diff=lfs merge=lfs -text
+JerinOs.iso filter=lfs diff=lfs merge=lfs -text
+JerinOs.zip filter=lfs diff=lfs merge=lfs -text
